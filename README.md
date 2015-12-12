@@ -7,8 +7,8 @@ Script(s) to create old style demotivation poster images, as introduced by <a hr
 
 Basically, just a wrapper around ImageMagick' convert utility. Prerequisites:
 
-*perl 5.8+
-*ImageMagick 6.3+
+  * perl 5.8+
+  * ImageMagick 6.3+
 
 Output file size is hardcoded at the moment (750x600, or 600x750 pixels).
 
